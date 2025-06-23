@@ -8,7 +8,6 @@ Semantic search for academic papers with FastAPI + React + ChromaDB.
 
 ```sh
 # Install just: https://github.com/casey/just
-curl --proto '=https' --tlsv1.2 -sSf https://just.systems/install.sh | bash -s -- --to ~/bin
 
 # Setup project
 just setup
