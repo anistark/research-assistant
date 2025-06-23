@@ -1,6 +1,6 @@
 # Research Assistant
 
-![Research Agent](./frontend/public/favicon.svg)
+![Research Agent](./data/Screenshot.png)
 
 Semantic search for academic papers with FastAPI + React + ChromaDB.
 

@@ -296,19 +296,19 @@ function App() {
             </div>
             
             <div className="flex items-center gap-4">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+              <a href="https://github.com/anistark/research-assistant" target="_blank" rel="noopener noreferrer" 
                  className="social-icon p-3 rounded-full text-emerald-300/60 hover:text-emerald-100 hover:scale-110 transition-all duration-300">
                 <FaGithub size={20} />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://x.com/kranirudha" target="_blank" rel="noopener noreferrer"
                  className="social-icon p-3 rounded-full text-white/60 hover:text-white hover:scale-110 transition-all duration-300">
                 <FaTwitter size={20} />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://linkedin.com/in/kranirudha" target="_blank" rel="noopener noreferrer"
                  className="social-icon p-3 rounded-full text-white/60 hover:text-white hover:scale-110 transition-all duration-300">
                 <FaLinkedin size={20} />
               </a>
-              <a href="mailto:contact@research-assistant.com"
+              <a href="mailto:hi@anirudha.dev" target="_blank" rel="noopener noreferrer"
                  className="social-icon p-3 rounded-full text-white/60 hover:text-white hover:scale-110 transition-all duration-300">
                 <FaEnvelope size={20} />
               </a>
